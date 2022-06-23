@@ -1,0 +1,19 @@
+{
+  "name": "merquerial",
+  "version": "1.0.0",
+  "description": "Simple dependency-free console query library.",
+  "main": "source/Merquerial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenvelozo/merquerial.git"
+  },
+  "author": "steven velozo <steven@velozo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevenvelozo/merquerial/issues"
+  },
+  "homepage": "https://github.com/stevenvelozo/merquerial#readme"
+}
